@@ -1,0 +1,6 @@
+{
+  "name": "National Health Resource & Supply Chain Platform (India PHC Network)",
+  "description": "Federated healthcare supply chain platform for India's Primary Health Centres (PHC) & Community Health Centres (CHC) featuring early-warning stockout forecasting, multimodal ledger digitization, voice telemetry, and automated inter-district resource reallocation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
